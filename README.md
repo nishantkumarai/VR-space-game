@@ -9,14 +9,15 @@ VR space game where player are in space ship and they have to survive
 
 ## Video Presentation
 
-
-
 ## Features
 
-- Grab Interaction
-- Teleportation Based locomotion
-- Real movement
-- Gun Interaction
+### Grab Interaction
+
+### Teleportation Based locomotion
+
+### Real movement
+
+### Gun Interaction
 
 
 ## 🛠 Skills
